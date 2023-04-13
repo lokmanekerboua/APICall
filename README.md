@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm LOKMANE KERBOUA</h1>
 <h3 align="center">A passionate frontend developer from Algeria</h3>
 
-<img align="right" alt="coding" width="400" src="https://enacteservices.com/wp-content/themes/twentytwenty/images/hire-developer/animation_500_l4zc9j5g.gif">
+<img align="right" alt="coding" width="300" src="https://enacteservices.com/wp-content/themes/twentytwenty/images/hire-developer/animation_500_l4zc9j5g.gif">
 
 <p align="left"> <a href="https://twitter.com/lokmvnee" target="blank"><img src="https://img.shields.io/twitter/follow/lokmvnee?logo=twitter&style=for-the-badge" alt="lokmvnee" /></a> </p>
 
