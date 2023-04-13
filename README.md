@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm LOKMANE KERBOUA</h1>
-<h3 align="center">A passionate frontend developer from Algeria</h3>
+<h3 align="center">A passionate Android developer from Algeria</h3>
 
 <img align="right" alt="coding" width="300" src="https://enacteservices.com/wp-content/themes/twentytwenty/images/hire-developer/animation_500_l4zc9j5g.gif">
 
